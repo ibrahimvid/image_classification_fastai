@@ -1,8 +1,3 @@
-# image_classification_fastai
-Simple image classification project from the fast.ai lecture. 
-
-Images are pulled via Bing Image Search in Azure platform. The classifier predicts the images using fast.ai library model. 
-
 # Image Classification - fast.ai
 <!-- Add buttons here -->
 
@@ -32,4 +27,4 @@ The purpose of this project is to create a simple image classifier with 3 classe
 * Microsoft Azure - Bing Search API
 
 ## Project Description
-Built a simple multi class image classifier that uses Bing Search API to pull images based on the desired inputs and number of images. 
+Built a simple multi class image classifier that uses Bing Search API to pull images based on the desired inputs and number of images. Images are pulled via Bing Image Search in Azure platform. The classifier predicts the images using fast.ai library model. 
